@@ -1,6 +1,6 @@
 {
-  "homepage": " https://kuchayaashiq.github.io/TextUtilsReactApp",
-  "name": "text-utilities-app",
+  "homepage": " https://kuchayaashiq.github.io/text_utils_react_app",
+  "name": "text_utils_react_app",
   "version": "0.1.0",
   "private": false,
   "dependencies": {
